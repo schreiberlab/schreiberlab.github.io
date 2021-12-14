@@ -186,10 +186,10 @@ footer{
 }
 
 .links{
-	padding-top: 32px;
+	/*padding-top: 32px;*/
 }
 
-.impressium, .datenschutz, .back{
+.homelinks, .back{
 	font-size: 14px;
 	font-weight: bold;
 	line-height: 1.5;
@@ -197,10 +197,10 @@ footer{
 	letter-spacing: 2px;
 }
 
-.datenschutz{
+/*.datenschutz{
 	margin-left: 40px;
 
-}
+}*/
 
 footer a{
 	/*padding: 0 20px;*/
